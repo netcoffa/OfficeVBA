@@ -1,6 +1,6 @@
 ### 记录使用Office VBA进行处理的小操作
 
-#### 1. Bing-Wallpaper by Excel VBA，[下载](https://github.com/netcoffa/netcoffa/blob/master/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8-20240912.xlsm)
+#### 1. Bing-Wallpaper by Excel VBA，[下载](https://raw.githubusercontent.com/netcoffa/netcoffa/master/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8-20240912.xlsm)
 
 * 通过[必应](https://cn.bing.com)自带的API接口，获取中国区最近7天的壁纸列表
   * 超过7天的图片信息，无法获取，请记得每天运行一次
