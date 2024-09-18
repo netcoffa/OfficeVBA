@@ -1,4 +1,4 @@
-### 记录使用Office VBA进行处理的小操作
+### 记录使用Office VBA进行处理的各种小操作
 
 #### 1. Bing-Wallpaper by Excel VBA，[下载](https://raw.githubusercontent.com/netcoffa/netcoffa/master/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8-20240912.xlsm)
 
